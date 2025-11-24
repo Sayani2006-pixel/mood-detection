@@ -200,6 +200,4 @@ Sentiment Prediction Algorithm
 
 7. Display output.
 
-✅ UML diagrams
-✅ Flowchart
-Just tell me what you need next.
+
